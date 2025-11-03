@@ -10,7 +10,11 @@
 
 ---------
 
+<br>
+
 # 🚀 My Projects ->
+
+<br>
 
 ## 🎯 Active Development
 
