@@ -1,3 +1,12 @@
+# About
+
+SDET engineer
+Creating services with Go
+Writing auto-tests and test-infrastructure with Python
+
+---
+
+
 # My projects
 
 ---
