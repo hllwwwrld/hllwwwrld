@@ -4,17 +4,17 @@
 
 - 🔧 **Backend Development**: Creating services and APIs with **Go**
 - 🧪 **Test Automation**: Writing tests and test-infrastructure with **Python** and **PyTest**
-
-
-
+|
+|
+|
 ---------
-
-
-
+|
+|
+|
 # 🚀 My Projects ->
-
-
-
+|
+|
+|
 ## 🎯 Active Development
 
 *Currently focusing on internal tools and infrastructure. Public projects coming soon!*
