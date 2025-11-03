@@ -3,7 +3,7 @@
 **SDET Engineer** Go | Python.
 
 - 🔧 **Backend Development**: Creating services and APIs with **Go**
-- 🧪 **Test Automation**: Writing tests and test-infrastructure with **Python**
+- 🧪 **Test Automation**: Writing tests and test-infrastructure with **Python** and **PyTest**
 
 ---------
 
