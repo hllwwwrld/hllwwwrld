@@ -1,8 +1,8 @@
 # About
 
-SDET engineer
-Creating services with Go
-Writing auto-tests and test-infrastructure with Python
+- SDET engineer
+- Creating services with Go
+- Writing auto-tests and test-infrastructure with Python
 
 ---
 
