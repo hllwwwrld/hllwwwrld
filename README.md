@@ -4,10 +4,6 @@
 
 - 🔧 **Backend Development**: Creating services and APIs with **Go**
 - 🧪 **Test Automation**: Writing tests and test-infrastructure with **Python** and **PyTest**
-
-
-<br>
-
 ---------
 
 <br>
@@ -32,8 +28,6 @@
 
 - **[Nappy](https://github.com/hllwwwrld/Nappy)** - Simple reminder bot for Telegram notifications
 - **[Booker](https://github.com/hllwwwrld/Booker)** - Text-to-book converter with pagination and bookmarks
-
-<br>
 
 **🧪 Testing Examples**
 
