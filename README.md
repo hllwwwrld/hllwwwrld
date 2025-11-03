@@ -15,7 +15,7 @@
 
 ## 📚 Project Archive
 
-*These projects showcase my learning journey and foundational skills.*
+*My learning showcase.*
 
 ### 🤖 Telegram Bots
 
