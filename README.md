@@ -7,11 +7,9 @@
 <br>
 <br>
 ---------
-<br>
-<br>
+
 # 🚀 My Projects ->
-<br>
-<br>
+
 ## 🎯 Active Development
 
 *Currently focusing on internal tools and infrastructure. Public projects coming soon!*
