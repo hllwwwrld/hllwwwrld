@@ -21,5 +21,5 @@
   Telegram bot. 
   Makes a book with pagination, bookmarks etc by a row text
 
-- [silenium_example](https://github.com/hllwwwrld/selenium_example)
+- [selenium_example](https://github.com/hllwwwrld/selenium_example)
   Simple UI auto-test with Python and Selenium
