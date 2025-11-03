@@ -1,15 +1,24 @@
 # My projects
 
+---
+
 ## 🎯 Active
+
+
+---
+
+## 📦 Outdated
+
 - [Nappy](https://github.com/hllwwwrld/Nappy)
-  
-Telegram bot.
-Sends simple reminding notifications in messenger
+
+  Telegram bot.
+  Sends simple reminding notifications in messenger
+
   
 - [Booker](https://github.com/hllwwwrld/Booker)
 
-Telegram bot. 
-Makes a book with pagination, bookmarks etc by a row text
+  Telegram bot. 
+  Makes a book with pagination, bookmarks etc by a row text
 
-
-## 📦 Outdated
+- [silenium_example](https://github.com/hllwwwrld/selenium_example)
+  Simple UI auto-test with Python and Selenium
