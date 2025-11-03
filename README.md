@@ -16,13 +16,13 @@
 
 <br>
 
-##№ 🎯 Active Development
+### 🎯 Active Development
 
 *Currently focusing on internal tools and infrastructure. Public projects coming soon!*
 
 <br>
 
-##№ 📚 Project Archive
+### 📚 Project Archive
 
 *My learning showcase.*
 
