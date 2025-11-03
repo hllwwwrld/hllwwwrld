@@ -8,7 +8,8 @@
 
 ---
 
-## 📦 Outdated
+## 📦 Outdated 
+(does not show actual skills and can meet global refactoring later)
 
 - [Nappy](https://github.com/hllwwwrld/Nappy)
 
