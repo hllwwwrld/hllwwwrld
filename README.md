@@ -20,14 +20,20 @@
 
 *Currently focusing on internal tools and infrastructure. Public projects coming soon!*
 
+<br>
+
 ## 📚 Project Archive
 
 *My learning showcase.*
+
+<br>
 
 ### 🤖 Telegram Bots
 
 - **[Nappy](https://github.com/hllwwwrld/Nappy)** - Simple reminder bot for Telegram notifications
 - **[Booker](https://github.com/hllwwwrld/Booker)** - Text-to-book converter with pagination and bookmarks
+
+<br>
 
 ### 🧪 Testing Examples
 
