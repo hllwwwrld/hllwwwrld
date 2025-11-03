@@ -1,35 +1,29 @@
-# About
+# 👨‍💻 About Me
 
-- SDET engineer
-- Creating services with Go
-- Writing auto-tests and test-infrastructure with Python
+**SDET Engineer** Go | Python.
 
----
-
-
-# My projects
+- 🔧 **Backend Development**: Creating services and APIs with **Go**
+- 🧪 **Test Automation**: Writing tests and test-infrastructure with **Python**
 
 ---
 
-## 🎯 Active
+# 🚀 My Projects
 
-### No currently working on projects
+## 🎯 Active Development
 
----
+*Currently focusing on internal tools and infrastructure. Public projects coming soon!*
 
-## 📦 Outdated 
-### (does not show actual skills and can meet global refactoring later)
+## 📚 Project Archive
 
-- [Nappy](https://github.com/hllwwwrld/Nappy)
+*These projects showcase my learning journey and foundational skills.*
 
-  Telegram bot.
-  Sends simple reminding notifications in messenger
+-
 
-  
-- [Booker](https://github.com/hllwwwrld/Booker)
+### 🤖 Telegram Bots
 
-  Telegram bot. 
-  Makes a book with pagination, bookmarks etc by a row text
+- **[Nappy](https://github.com/hllwwwrld/Nappy)** - Simple reminder bot for Telegram notifications
+- **[Booker](https://github.com/hllwwwrld/Booker)** - Text-to-book converter with pagination and bookmarks
 
-- [selenium_example](https://github.com/hllwwwrld/selenium_example)
-  Simple UI auto-test with Python and Selenium
+### 🧪 Testing Examples
+
+- **[selenium_example](https://github.com/hllwwwrld/selenium_example)** - UI automation testing with Python & Selenium
