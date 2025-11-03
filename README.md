@@ -1,4 +1,4 @@
-# 👨‍💻 About Me
+# 👨‍💻 About Me ->
 
 **SDET Engineer** Go | Python.
 
@@ -7,7 +7,7 @@
 
 ---------
 
-# 🚀 My Projects
+# 🚀 My Projects ->
 
 ## 🎯 Active Development
 
