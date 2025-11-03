@@ -12,30 +12,30 @@
 
 <br>
 
-# 🚀 My Projects ->
+# 🚀 Projects ->
 
 <br>
 
-## 🎯 Active Development
+##№ 🎯 Active Development
 
 *Currently focusing on internal tools and infrastructure. Public projects coming soon!*
 
 <br>
 
-## 📚 Project Archive
+##№ 📚 Project Archive
 
 *My learning showcase.*
 
 <br>
 
-### 🤖 Telegram Bots
+ **🤖 Telegram Bots**
 
 - **[Nappy](https://github.com/hllwwwrld/Nappy)** - Simple reminder bot for Telegram notifications
 - **[Booker](https://github.com/hllwwwrld/Booker)** - Text-to-book converter with pagination and bookmarks
 
 <br>
 
-### 🧪 Testing Examples
+**🧪 Testing Examples**
 
 - **[selenium_example](https://github.com/hllwwwrld/selenium_example)** - UI automation testing with Python & Selenium
 
