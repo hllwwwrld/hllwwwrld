@@ -15,7 +15,7 @@
 
 ## 🎯 Active Development
 
-*Currently focusing on internal tools and infrastructure 🤑
+Currently focusing on internal tools and infrastructure 🤑
 
 <br>
 
