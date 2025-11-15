@@ -19,7 +19,7 @@ Currently focusing on internal tools and infrastructure 🤑
 
 <br>
 
-## 📚 Project Archive
+## 📚 Project archive
 
 *My **learning** showcase.*
 
@@ -27,7 +27,7 @@ Currently focusing on internal tools and infrastructure 🤑
 
  **🤖 Telegram Bots**
 
-- **[Nappy](https://github.com/hllwwwrld/Nappy)** - Simple reminder bot for Telegram notifications
+- **[Nappy](https://github.com/hllwwwrld/Nappy)** - Simple reminder bot for Telegram notifications [requires global refactoring, that probably won't ever happen 🫣]
 - **[Booker](https://github.com/hllwwwrld/Booker)** - Text-to-book converter with pagination and bookmarks
 
 **🧪 Testing Examples**
