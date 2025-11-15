@@ -34,4 +34,11 @@
 
 - **[selenium_example](https://github.com/hllwwwrld/selenium_example)** - UI automation testing with Python & Selenium
 
+**✍️ Courses summaries**
+
+- **[stepik_advanced_python_summary](https://github.com/hllwwwrld/stepik_advanced_python_summary)** - Advanced python
+- **[stepik_beginners_python_summary](https://github.com/hllwwwrld/stepik_beginners_python_summary)** - Python for beginners 
+- **[stepik_telegram_bots_summary](https://github.com/hllwwwrld/stepik_telegram_bots_summary)** - Telegram bots with python
+- **[stepik_selenium_summary](https://github.com/hllwwwrld/stepik_selenium_summary)** - Selenium course summary
+
 ---------
