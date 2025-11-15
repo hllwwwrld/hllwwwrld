@@ -21,7 +21,7 @@ Currently focusing on internal tools and infrastructure 🤑
 
 ## 📚 Project Archive
 
-*My learning showcase.*
+*My **learning** showcase.*
 
 <br>
 
