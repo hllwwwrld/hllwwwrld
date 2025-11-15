@@ -1,4 +1,4 @@
-# 👨‍💻 About Me ->
+# 👨‍💻 About ->
 
 **SDET Engineer** Go | Python.
 
