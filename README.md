@@ -32,7 +32,7 @@ Dont take this so searious, i was just **learning**
 
 <br>
 
- ** Telegram Bots**
+ **Telegram Bots**
 
 - **[Nappy](https://github.com/hllwwwrld/Nappy)** - Simple reminder bot for Telegram notifications [requires global refactoring, that probably won't ever happen 🫣]
 - **[Booker](https://github.com/hllwwwrld/Booker)** - Text-to-book converter with pagination and bookmarks
