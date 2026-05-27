@@ -37,11 +37,11 @@ Dont take this so searious, i was just **learning**
 - **[Nappy](https://github.com/hllwwwrld/Nappy)** - Simple reminder bot for Telegram notifications [requires global refactoring, that probably won't ever happen 🫣]
 - **[Booker](https://github.com/hllwwwrld/Booker)** - Text-to-book converter with pagination and bookmarks
 
-** Testing Examples**
+**Testing Examples**
 
 - **[selenium_example](https://github.com/hllwwwrld/selenium_example)** - UI automation testing with Python & Selenium
 
-** Courses summaries**
+**Courses summaries**
 
 - **[stepik_advanced_python_summary](https://github.com/hllwwwrld/stepik_advanced_python_summary)** - Advanced python
 - **[stepik_beginners_python_summary](https://github.com/hllwwwrld/stepik_beginners_python_summary)** - Python for beginners 
