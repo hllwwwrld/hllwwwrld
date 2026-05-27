@@ -9,9 +9,7 @@
 
 <br>
 
-# Projects ->
-
-<br>
+# Projects
 
 ## Current projects
 
